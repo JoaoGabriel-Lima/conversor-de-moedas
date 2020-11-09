@@ -8,7 +8,7 @@
 
 #### 💵💵💵
 
-<img src="images/print1.png">
+<img src="images/print1.png" width=200px>
 </center>
 
 
